@@ -1,0 +1,15 @@
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\bin\Debug\net8.0\QuestionBankApi.Trainee.deps.json
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\bin\Debug\net8.0\QuestionBankApi.Trainee.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\bin\Debug\net8.0\QuestionBankApi.Trainee.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\bin\Debug\net8.0\QuestionBankApi.Core.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\bin\Debug\net8.0\QuestionBankApi.Core.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\QuestionBankApi.Trainee.csproj.AssemblyReference.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\QuestionBankApi.Trainee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\QuestionBankApi.Trainee.AssemblyInfoInputs.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\QuestionBankApi.Trainee.AssemblyInfo.cs
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\QuestionBankApi.Trainee.csproj.CoreCompileInputs.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\Question.B045B805.Up2Date
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\QuestionBankApi.Trainee.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\refint\QuestionBankApi.Trainee.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\QuestionBankApi.Trainee.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainee\obj\Debug\net8.0\ref\QuestionBankApi.Trainee.dll

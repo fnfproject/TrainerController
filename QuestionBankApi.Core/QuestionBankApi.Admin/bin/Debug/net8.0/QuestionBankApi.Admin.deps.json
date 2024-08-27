@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuestionBankApi.Admin/1.0.0": {
+        "dependencies": {
+          "QuestionBankApi.Core": "1.0.0"
+        },
+        "runtime": {
+          "QuestionBankApi.Admin.dll": {}
+        }
+      },
+      "QuestionBankApi.Core/1.0.0": {
+        "runtime": {
+          "QuestionBankApi.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuestionBankApi.Admin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuestionBankApi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

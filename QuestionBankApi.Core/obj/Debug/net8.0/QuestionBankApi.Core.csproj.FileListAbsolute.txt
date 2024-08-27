@@ -1,0 +1,11 @@
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\bin\Debug\net8.0\QuestionBankApi.Core.deps.json
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\bin\Debug\net8.0\QuestionBankApi.Core.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\bin\Debug\net8.0\QuestionBankApi.Core.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\QuestionBankApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\QuestionBankApi.Core.AssemblyInfoInputs.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\QuestionBankApi.Core.AssemblyInfo.cs
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\QuestionBankApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\QuestionBankApi.Core.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\refint\QuestionBankApi.Core.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\QuestionBankApi.Core.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Core\obj\Debug\net8.0\ref\QuestionBankApi.Core.dll

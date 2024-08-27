@@ -1,0 +1,15 @@
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\bin\Debug\net8.0\QuestionBankApi.Trainer.deps.json
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\bin\Debug\net8.0\QuestionBankApi.Trainer.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\bin\Debug\net8.0\QuestionBankApi.Trainer.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\QuestionBankApi.Trainer.csproj.AssemblyReference.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\QuestionBankApi.Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\QuestionBankApi.Trainer.AssemblyInfoInputs.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\QuestionBankApi.Trainer.AssemblyInfo.cs
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\QuestionBankApi.Trainer.csproj.CoreCompileInputs.cache
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\QuestionBankApi.Trainer.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\refint\QuestionBankApi.Trainer.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\QuestionBankApi.Trainer.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\ref\QuestionBankApi.Trainer.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\bin\Debug\net8.0\QuestionBankApi.Core.dll
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\bin\Debug\net8.0\QuestionBankApi.Core.pdb
+C:\Users\6147960\source\repos\ConsoleApp2\QuestionBank\QuestionBankApi.Trainer\obj\Debug\net8.0\Question.D98CACF0.Up2Date
